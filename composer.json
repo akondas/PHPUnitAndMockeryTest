@@ -1,6 +1,7 @@
 {
     "name": "itcraftsmanpl/phpunit-and-mockery-test",
     "description":"Simple test showcase with PHPUnit and Mockery",
+    "license": "MIT",
     "require": {
         "phpunit/phpunit": "~4.3",
         "mockery/mockery": "~0.9"
