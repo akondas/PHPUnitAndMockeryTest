@@ -1,5 +1,6 @@
 {
-    "name": "itcraftsmanpl/PHPUnitAndMockeryTest",
+    "name": "itcraftsmanpl/phpunit-and-mockery-test",
+    "description":"Simple test showcase with PHPUnit and Mockery",
     "require": {
         "phpunit/phpunit": "~4.3",
         "mockery/mockery": "~0.9"

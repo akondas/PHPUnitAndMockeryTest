@@ -19,4 +19,4 @@ class Mailer {
         return mail($this->email, 'Wiadomość aktywacyjna', 'Lorem lipsum', 'From: test@test.pl');
     }
 
-} 
+}
